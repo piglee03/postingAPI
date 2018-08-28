@@ -1,4 +1,11 @@
-# Tour of Heroes API
-이 저장소의 코드는
-[http://a-mean-blog.com/ko/blog/Node-JS-API/_/기본-API-만들기](http://a-mean-blog.com/ko/blog/Node-JS-API/_/기본-API-만들기)에서 작성되었습니다.
+# PostingAPI
+HTTP request를 이용한 게시판 API
+<br>
+[http://a-mean-blog.com/ko/blog/Node-JS-API/_/기본-API-만들기](http://a-mean-blog.com/ko/blog/Node-JS-API/_/기본-API-만들기)를 참고
+
+##requirement
+mongoDB
+mongoose
+express
+body-parser
 <br>
